@@ -5,7 +5,7 @@ const app = express();
 const port = 9999;
 
 app.listen(port, () => {
-    console.log(`open http://localhost:9999/${port}`);
+    console.log(`open http://localhost:${port}`);
 });
 
 app.get(`/`, (request, response) => {
