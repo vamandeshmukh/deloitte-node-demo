@@ -13,6 +13,13 @@ app.get(`/`, (request, response) => {
     response.send(`Welcome to my app!`);
 });
 
+app.get(`/about`, (request, response) => {
+    console.log(`About!`);
+    response.send(`This is about page.`);
+});
 
-
+app.get(`/contact`, (request, response) => {
+    console.log(`About!`);
+    response.send(`This is contact page.`);
+});
 
