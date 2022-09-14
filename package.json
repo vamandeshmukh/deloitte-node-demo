@@ -1,0 +1,19 @@
+{
+  "name": "deloitte-node-demo",
+  "version": "1.0.0",
+  "description": "NodeJS project for Deloitte trainees Sep 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamandeshmukh/deloitte-node-demo.git"
+  },
+  "author": "Vaman Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamandeshmukh/deloitte-node-demo/issues"
+  },
+  "homepage": "https://github.com/vamandeshmukh/deloitte-node-demo#readme"
+}
